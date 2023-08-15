@@ -207,6 +207,7 @@ var (
 		2: "MICROPHONE",
 		3: "SCREEN_SHARE",
 		4: "SCREEN_SHARE_AUDIO",
+		9: "RTSP_CAMERA",
 	}
 	TrackSource_value = map[string]int32{
 		"UNKNOWN":            0,
@@ -214,6 +215,7 @@ var (
 		"MICROPHONE":         2,
 		"SCREEN_SHARE":       3,
 		"SCREEN_SHARE_AUDIO": 4,
+		"RTSP_CAMERA":		  9,
 	}
 )
 
