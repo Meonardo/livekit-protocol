@@ -196,6 +196,7 @@ const (
 	TrackSource_MICROPHONE         TrackSource = 2
 	TrackSource_SCREEN_SHARE       TrackSource = 3
 	TrackSource_SCREEN_SHARE_AUDIO TrackSource = 4
+	TrackSource_RTSP_CAMERA		   TrackSource = 9
 )
 
 // Enum value maps for TrackSource.
